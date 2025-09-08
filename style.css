@@ -5,9 +5,9 @@
   --cor-destaque: #8f060681; 
   --cor-gradiente-preto: linear-gradient( 
     113deg, 
-    #000 0%, 
+    #310303a6 0%, 
     #1e2021 44.96%, 
-    #1e2022 100% 
+    #034383 100% 
   ); 
 } 
 
@@ -52,13 +52,14 @@ h1 {
   gap: 0.625rem; 
   align-self: stretch; 
   border-radius: 0.625rem; 
-  background: #006d24; 
+  background: #f1f7f3; 
   font-size: 2rem; 
 } 
 
 #entrada-de-texto::placeholder { .
   color: #880d0d; 
   font-size: 2rem; 
+  
   font-weight: 400; 
   line-height: normal; 
 } 
@@ -72,7 +73,7 @@ h1 {
   border-radius: 0.5rem; 
   border: none; 
   background: var(--cor-destaque); 
-  color: #dbdbdb; 
+  color: #9c5d5d; 
   font-size: 2.5rem; 
   font-weight: 500; 
   line-height: normal; 
