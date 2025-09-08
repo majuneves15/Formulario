@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"); 
 
 :root { 
-  --cor-destaque: #8f060681; 
+  --cor-destaque: #00216981; 
   --cor-gradiente-preto: linear-gradient( 
     113deg, 
     #310303a6 0%, 
@@ -59,7 +59,7 @@ h1 {
 #entrada-de-texto::placeholder { .
   color: #880d0d; 
   font-size: 2rem; 
-  
+
   font-weight: 400; 
   line-height: normal; 
 } 
