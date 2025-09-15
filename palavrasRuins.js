@@ -1,3 +1,5 @@
+const PALAVRAS_RUINS = new Set (Definir([
+
 "que",
     "para",
     "com",
@@ -120,3 +122,4 @@
     "uma vez",
     "segundo",
     "junto"
+    ]);
