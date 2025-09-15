@@ -1,4 +1,4 @@
-const PALAVRAS_RUINS = new Set (Definir([
+const PALAVRAS_RUINS = new Set 
 
 "que",
     "para",
